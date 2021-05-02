@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jayavelu(@jaymohan1)
+- Currently working as Senior Software Engineer. 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Front end technologies
+- 📫 How to reach me jayavelumohan77@gmail.com
